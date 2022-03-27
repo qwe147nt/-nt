@@ -1,0 +1,7 @@
+echo＂#－nt＂> README．md
+git init
+添加README．md
+git commit－m“第一次提交”
+git分支－m主
+远程添加原点https://github.com/qwe147nt/-nt.git
+原点主
